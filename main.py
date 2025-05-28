@@ -33,3 +33,7 @@ final_year = 5
 
 dcf_result = calculate_dcf(fcf_forecast, wacc, terminal_growth_rate, final_year)
 print(f"Intrinsic Value of the firm: ${dcf_result:.2f} million")
+
+
+#$######################
+# UYtfjgvdkuygd
